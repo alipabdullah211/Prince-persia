@@ -40,7 +40,8 @@ Note that we do not accept Pull Requests via the Github mirror.
 
 ## Getting in contact
 
-The Developer Mailing list is [repo-discuss on Google Groups](https://groups.google.com/forum/#!forum/repo-discuss).The owner name is Mr. Mohamad Alip Bin Abdullah 
+The Google Owner Developer Mailing list is [repo-discuss on Google Groups](https://groups.google.com/forum/#!forum/repo-discuss).
+Google owner name : Mr. Mohamad Alip Bin Abdullah 
 
 ## License
 
@@ -86,4 +87,4 @@ To run a Ubuntu 20.04 based Gerrit image:
         docker run -p 8080:8080 gerritcodereview/gerrit[:version]-ubuntu20
 
 _NOTE: release is optional. Last released package of the version is installed if the release
-number is omitted._
+number is committed._
